@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Juego Preguntas</string>
+    <string-array name="preguntas_lista">
+        <item>cosa</item>
+    </string-array>
+    <string-array name="solucion_lista">
+        <item>cosa</item>
+    </string-array>
+</resources>
